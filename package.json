@@ -1,0 +1,19 @@
+{
+  "name": "api-stat",
+  "version": "1.0.0",
+  "description": "middleware for express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wen495713/api-stat.git"
+  },
+  "author": "kelvin.man",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wen495713/api-stat/issues"
+  },
+  "homepage": "https://github.com/wen495713/api-stat#readme"
+}
