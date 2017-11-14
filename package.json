@@ -4,7 +4,7 @@
   "description": "middleware for express application",
   "main": "index.js",
   "scripts": {
-    "test": "DEBUG=application nodemon test/a.js"
+    "test": "DEBUG=application node test/a.js"
   },
   "repository": {
     "type": "git",
