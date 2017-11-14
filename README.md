@@ -3,11 +3,12 @@
 Express的一个接口使用情况统计中间件
 
 ### sample code
-
-*var express = require('express');
-*var app = express();
-*app.use(apistat(app));
-*app.listen(7654)
+```
+var express = require('express');
+var app = express();
+app.use(apistat(app));
+app.listen(7654)
+```
 
 ### 待完成需求
 *接口使用情况显示
