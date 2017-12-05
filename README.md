@@ -5,12 +5,13 @@ Express的一个接口使用情况统计中间件
 ### Sample code
 ```javascript
 var express = require('express');
+var apistat = require('api-stat');
 var app = express();
 app.use(apistat(app));
 app.listen(7654);
 ```
 
-### 待完成需求
+### 待完成功能
 * 接口使用情况显示
 * 统计数据持久化
 * 接口使用次数(总数,每月,每周,每日,每小时,每分钟,每5秒)
