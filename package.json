@@ -1,6 +1,6 @@
 {
   "name": "api-stat",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "middleware for express application",
   "main": "index.js",
   "scripts": {
